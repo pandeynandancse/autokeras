@@ -1,4 +1,4 @@
-<img src="https://autokeras.com/img/row_red.svg" alt="drawing" width="400px" style="display: block; margin-left: auto; margin-right: auto"/>
+<img src="https://autokeras.com/img/row_red.svg" alt="drawing" width="380px" style="display: block; margin-left: auto; margin-right: auto"/>
 
 ![](https://github.com/keras-team/autokeras/workflows/Tests/badge.svg?branch=master)
 [![codecov](https://codecov.io/gh/keras-team/autokeras/branch/master/graph/badge.svg)](https://codecov.io/gh/keras-team/autokeras)
